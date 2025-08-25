@@ -1,0 +1,15 @@
+# Python virtual environment
+bill/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model training results (optional, but good practice)
+billboard_detector/
+
+# Add your dataset folder here if it's large and you don't want to upload it
+# Example:
+# Billboard-Detector-1/
